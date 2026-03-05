@@ -29,7 +29,7 @@ public class ChatService {
         // 关键修正：2.0.2+ 版本用 inputMessages
         GenerationParam param = GenerationParam.builder()
                 .apiKey(apiKey)
-                .model("qwen-turbo")
+                .model("qwen-plus")
                 .messages(Collections.singletonList(userMsg))
                 .resultFormat("message")
                 .build();

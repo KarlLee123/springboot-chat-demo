@@ -2,4 +2,4 @@ server:
   port: 8080
 
 dashscope:
-  api-key: sk-26600f74aff241b4ae725fc05222f24b   # ????? Key
+  api-key: sk-26600f74aff241b4ae725fc05222f24b
